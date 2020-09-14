@@ -5,7 +5,6 @@ Kodi最新IPTV直播源m3u8无定时更新
 
 CBN-HB=> 湖北广电直播源=> https://raw.githubusercontent.com/gjw-junere/TV-m3u8/master/CBN-HB.m3u
 
-CBN-cctv+=> 中国广电cctv+卫视=> https://raw.githubusercontent.com/gjw-junere/TV-m3u8/master/CBN-cctv+.m3u
+CBN-cctv+=> 中国广电cctv+卫视+其它=> https://raw.githubusercontent.com/gjw-junere/TV-m3u8/master/CBN-cctv+.m3u
 
-CBN=> 国内=> https://raw.githubusercontent.com/gjw-junere/TV-m3u8/master/CBN.m3u
 
